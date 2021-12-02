@@ -3,6 +3,4 @@
 
 
 
-<p>
-  Github lastfull gif by [ilosrim](t.me/ilosrim)
-</p>
+<p>Github lastfull gif by</p>
