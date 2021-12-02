@@ -3,4 +3,6 @@
 
 
 
-<p>Github lastfull gif by</p> [ilosrim](t.me/ilosrim)
+<p>
+  Github lastfull gif by <a href="t.me/ilosrim"></a>
+</p>
