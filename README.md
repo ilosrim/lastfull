@@ -4,5 +4,5 @@
 
 
 <p>
-  Github lastfull gif by ilosrim
+  Github lastfull gif by [ilosrim](t.me/ilosrim)
 </p>
