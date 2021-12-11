@@ -8,4 +8,5 @@ console.log(c(arr));
 let a = `
   1
   2
+  3
 `
