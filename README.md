@@ -12,7 +12,3 @@
 [Link4](https://www.com)
 [Link5](https://www.com)
 [Link6](https://www.com)
-[Link7](https://www.com)
-[Link7](https://www.com)
-[Link8](https://www.com)
-[Link8](https://www.com)
